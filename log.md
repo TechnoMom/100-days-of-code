@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 3: Tuesday, 5 January 2021
+
+**Today's Progress**: Finished everything but the optional bits of the Credit Card Checker project, but I'm not quite happy with it yet. Also went through FCC's ES6 lessons.
+
+**Thoughts**: If I were commuting to and from work this just wouldn't be possible. Being able to do it is a pandemic blessing.
+
 ### Day 2: Monday, 4 January 2021
 
 **Today's Progress**: Started the Credit Card Checker project at [Codecademy][https://codecademy.com] and began going through the ES6 lessons at [FreeCodeCamp][https://freecodecamp.org]. Read the first two chapters of [Eloquent JavaScript, Third Edition][https://eloquentjavascript.net], by Marijn Haverbeke.

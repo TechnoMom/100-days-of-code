@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 4: Wednesday, 6 January 2021
+
+**Today's Progress**: Started the Mysterious Organism project on Codecademy and started on Regular Expressions at FCC. 
+
+**Thoughts**: I would have spent more time on both sections, but today's news of insurrection is very distracting - and I have a D&D game tonight! But I did get my hour in.
+
 ### Day 3: Tuesday, 5 January 2021
 
 **Today's Progress**: Finished everything but the optional bits of the Credit Card Checker project, but I'm not quite happy with it yet. Also went through FCC's ES6 lessons.

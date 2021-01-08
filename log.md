@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 5: Thursday, 7 January 2021
+
+**Today's Progress**: Studied git and regular expressions.
+
+**Thoughts**: I'm tired. I think it is largely due to current events. I still got in my hour, though!
+
 ### Day 4: Wednesday, 6 January 2021
 
 **Today's Progress**: Started the Mysterious Organism project on Codecademy and started on Regular Expressions at FCC. 

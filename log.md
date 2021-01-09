@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 7: Saturday, 9 January 2021
+
+**Today's Progress**: Spent more time on Git and GitHub at Codecademy. Finished up Regular Expressions at FCC (though that topic bears a lot more study).
+
+**Thoughts**: Too many videos! I just don't like watching videos. I find it harder to focus on them than text or (particularly) exercises/challenges.
+
 ### Day 6: Friday, 8 Jannuary 2021
 
 **Today's Progress**: Studied Git, GitHub, and regular expessions.

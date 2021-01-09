@@ -1,8 +1,14 @@
 # 100 Days Of Code - Log
 
+### Day 6: Friday, 8 Jannuary 2021
+
+**Today's Progress**: Studied Git, GitHub, and regular expessions.
+
+**Thoughts**: What a week! But I am still going strong.
+
 ### Day 5: Thursday, 7 January 2021
 
-**Today's Progress**: Studied git and regular expressions.
+**Today's Progress**: Studied Git and regular expressions.
 
 **Thoughts**: I'm tired. I think it is largely due to current events. I still got in my hour, though!
 

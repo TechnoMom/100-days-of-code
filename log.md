@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 9: Monday, 11 January 2021
+
+**Today's Progress**: So far, I've done the Basic Data Structures at FCC and started the Web Development part of the Full-Stack Engineer path at Codecademy.
+
+**Thoughts**: I'm making use of insomnia and getting my time in early today.
+
+### Day 8: Sunday, 10 January 2021
+
+**Today's Progress**: Continued working through the Full-Stack Engineer path at Codecademy and did the Mixed Messages project. Went through the Debugging Challenges at FCC.
+
+**Thoughts**: I forgot to do my log and Tweet on Sunday, but I did get more than an hour of study/coding in!
+
 ### Day 7: Saturday, 9 January 2021
 
 **Today's Progress**: Spent more time on Git and GitHub at Codecademy. Finished up Regular Expressions at FCC (though that topic bears a lot more study).

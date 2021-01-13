@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 10: Tuesday, 12 January 2021
+
+**Today's Progress**: I started the Basic Algorithm Scripting at FCC and did more Web Development Fundamentals review at Codecademy.
+
+**Thoughts**: I think I'm going to take the algorithms slowly. I want to be sure that I really understand them.
+
 ### Day 9: Monday, 11 January 2021
 
 **Today's Progress**: So far, I've done the Basic Data Structures at FCC and started the Web Development part of the Full-Stack Engineer path at Codecademy.

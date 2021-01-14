@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 11: Wednesday, 13 January 2021
+
+**Today's Progress**: More of the Basic Algorithm Scripting and Web Development Fundamentals review.
+
+**Thoughts**: It's D&D night, so I didn't have as much time to study. But I did get my hour in, then had some pure fun.
+
 ### Day 10: Tuesday, 12 January 2021
 
 **Today's Progress**: I started the Basic Algorithm Scripting at FCC and did more Web Development Fundamentals review at Codecademy.

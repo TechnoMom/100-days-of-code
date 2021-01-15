@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 12: Thursday, 14 January 2021
+
+**Today's Progress**: More Web Development Fundamentals review at Codecademy and going through the Basic Algorithm Scripting at FreeCodeCamp.
+
+**Thoughts**: I've raced through things in the past, but I'm trying to slow down to retain more now.
+
 ### Day 11: Wednesday, 13 January 2021
 
 **Today's Progress**: More of the Basic Algorithm Scripting and Web Development Fundamentals review.

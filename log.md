@@ -1,5 +1,21 @@
 # 100 Days Of Code - Log
 
+### Day 15: Sunday, 17 January 2021
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+### Day 14: Saturday, 16 January 2021
+
+**Today's Progress**: I moved on to a CSS review as well as reviewing some JavaScript at Codecademy. Still studying JavaScript at FCC.
+
+**Thoughts**: I had to get up early Friday and then skipped lunch due to work stuff. The combination led to crashing before posting this update last night! But I did get my time in and I continued to study today.
+
+### Day 13: Friday, 15 January 2021
+
+**Today's Progress**: I'm mostly done with the Web Development Fundamentals review at Codecademy. Still working on JavaScript at FCC.
+
 ### Day 12: Thursday, 14 January 2021
 
 **Today's Progress**: More Web Development Fundamentals review at Codecademy and going through the Basic Algorithm Scripting at FreeCodeCamp.

@@ -2,9 +2,9 @@
 
 ### Day 15: Sunday, 17 January 2021
 
-**Today's Progress**: 
+**Today's Progress**: CSS. Lots of CSS. And more CSS.
 
-**Thoughts**: 
+**Thoughts**: Is there more CSS than there used to be? It sure seems like it.
 
 ### Day 14: Saturday, 16 January 2021
 

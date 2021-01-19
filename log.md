@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 17: Tuesday, 19 January 2021
+
+**Today's Progress**: 
+
+**Thoughts**: 
+
+### Day 16: Monday, 18 January 2021
+
+**Today's Progress**: I spent most of my time today studying Flexbox.
+
+**Thoughts**: Does anyone else occasionally feel like your brain is just full and you need a break?
+
 ### Day 15: Sunday, 17 January 2021
 
 **Today's Progress**: CSS. Lots of CSS. And more CSS.

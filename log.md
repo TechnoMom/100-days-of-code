@@ -2,9 +2,9 @@
 
 ### Day 17: Tuesday, 19 January 2021
 
-**Today's Progress**: 
+**Today's Progress**: Today I did several sections of the Full-Stack Engineer course at Codecademy, including a project.
 
-**Thoughts**: 
+**Thoughts**: I think the projects help to solidify knowledge more than anything else does.
 
 ### Day 16: Monday, 18 January 2021
 

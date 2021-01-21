@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 18: Wednesday, 20 January 2921
+
+**Today's Progress**: Today I continued with the Full Stack Development Path on Codecademy, focusing on a project called Excursion. 
+
+**Thoughts**: The Inauguration today was such a relief! I have been able to focus so much better ever since it was finished/
+
 ### Day 17: Tuesday, 19 January 2021
 
 **Today's Progress**: Today I did several sections of the Full-Stack Engineer course at Codecademy, including a project.

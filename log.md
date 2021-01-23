@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 20: Friday, 22 January 2021
+
+**Today's Progress**: I began the Fotomatic project from Codecademy's Full-Stack Development Path.
+
+**Thoughts**: I think I skipped some of the reading I was supposed to do last night. I need to go back and read a few chapters of Jon Duckett's HTML & CSS book.
+
 ### Day 19: Thursday, 21 January 2021
 
 **Today's Progress**: I finished the Excursion project and deployed it using GitHub Pages, then continued through more Codecademy material.

@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 21: Saturday, 23 January 2021
+
+**Today's Progress**: I finished the Fotomatic project - https://technomom.github.io/fotomatic/
+
+**Thoughts**: I spent most of the day playing with my granddaughter, which really cleared my mind and helped me start fresh when I came back to it.
+
 ### Day 20: Friday, 22 January 2021
 
 **Today's Progress**: I began the Fotomatic project from Codecademy's Full-Stack Development Path.

@@ -14,7 +14,7 @@
 
 ### Day 19: Thursday, 21 January 2021
 
-**Today's Progress**: I finished the Excursion project and deployed it using GitHub Pages, then continued through more Codecademy material.
+**Today's Progress**: I finished the Excursion project and deployed it using GitHub Pages (https://technomom.github.io/excursion/), then continued through more Codecademy material.
 
 **Thoughts**: It's been a long day. However, I'm 39% of the way through the Full-Stack Development Path! It has covered some material that I already knew, like information on web hosting and domain names, but I've learned at least a little something in each section.
 
@@ -62,7 +62,7 @@
 
 **Today's Progress**: More of the Basic Algorithm Scripting and Web Development Fundamentals review.
 
-**Thoughts**: It's D&D night, so I didn't have as much time to study. But I did get my hour in, then had some pure fun.
+**Thoughts**: It's D&D night, so I didn't have as much time to study. But I did get my hour in, then had some fun.
 
 ### Day 10: Tuesday, 12 January 2021
 

@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 23: Sunday, 25 January 2021
+
+**Today's Progress**: 
+
+**thoughts**: 
+
+### Day 22: Sunday, 24 January 2021
+
+**Today's Progress**: I spent time studying the DOM.
+
+**thoughts**: I finished my 30-day Challenge at Codecademy!
+
 ### Day 21: Saturday, 23 January 2021
 
 **Today's Progress**: I finished the Fotomatic project - https://technomom.github.io/fotomatic/

@@ -1,10 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 23: Sunday, 25 January 2021
+### Day 23: Monday, 25 January 2021
 
-**Today's Progress**: 
+**Today's Progress**: More DOM study at Codecademy.
 
-**thoughts**: 
+**thoughts**: Busy, busy day!
 
 ### Day 22: Sunday, 24 January 2021
 

@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 24: Tuesday, 26 January 2021
+
+**Today's Progress**: DOM events at Codecademy.
+
 ### Day 23: Monday, 25 January 2021
 
 **Today's Progress**: More DOM study at Codecademy.

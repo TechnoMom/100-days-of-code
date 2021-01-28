@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 25: Wednesday, 27 January 2021
+
+**Today's Progress**: A Codecademy project using what I've learned about DOM events.
+
+**Thoughts**: I'm tired tonight. Wednesdays are very long days for me.
+
 ### Day 24: Tuesday, 26 January 2021
 
 **Today's Progress**: DOM events at Codecademy.
@@ -8,13 +14,13 @@
 
 **Today's Progress**: More DOM study at Codecademy.
 
-**thoughts**: Busy, busy day!
+**Thoughts**: Busy, busy day!
 
 ### Day 22: Sunday, 24 January 2021
 
 **Today's Progress**: I spent time studying the DOM.
 
-**thoughts**: I finished my 30-day Challenge at Codecademy!
+**Thoughts**: I finished my 30-day Challenge at Codecademy!
 
 ### Day 21: Saturday, 23 January 2021
 

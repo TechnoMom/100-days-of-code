@@ -1,4 +1,9 @@
 # 100 Days Of Code - Log
+### Day 26: Thursday, 28 January 2021
+
+**Today's Progress**: I went back to the beginning of the DOM material because I don't feel like I have it completely yet.
+
+**Thoughts**: I keep reminding myself not to rush through. It's more important to "get it" than to get finished quickly.
 
 ### Day 25: Wednesday, 27 January 2021
 

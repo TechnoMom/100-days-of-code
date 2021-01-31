@@ -1,4 +1,17 @@
 # 100 Days Of Code - Log
+
+### Day 28: Saturday, 30 January 2021
+
+**Today's Progress**: And then there was chapter six of the book.
+
+**Thoughts**: Reading about coding is a good cure for insomnia.
+
+### Day 27: Friday, 29 January 2021
+
+**Today's Progress**: I tried to stay awake while reading chapter five of JavaScript and jQuery by Jon Duckett.
+
+**Thoughts**: I didn't do a great job of it.
+
 ### Day 26: Thursday, 28 January 2021
 
 **Today's Progress**: I went back to the beginning of the DOM material because I don't feel like I have it completely yet.

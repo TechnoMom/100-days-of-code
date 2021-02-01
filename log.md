@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 29: Sunday, 31 January 2021
+
+**Today's Progress**: Finished chapter six of JavaScript and jQuery by Jon Duckett and moved on to start learning about form validation.
+
+**Thgoughts**: Because I take notes as I read, reading some things takes a long time.
+
 ### Day 28: Saturday, 30 January 2021
 
 **Today's Progress**: And then there was chapter six of the book.

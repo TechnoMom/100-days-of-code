@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 30: Monday, 1 February 2021
+
+**Today's Progress**: Continued the form validation material at Codecademy and started reading chapter 6 of HTML & CSS by Jon Duckett.
+
 ### Day 29: Sunday, 31 January 2021
 
 **Today's Progress**: Finished chapter six of JavaScript and jQuery by Jon Duckett and moved on to start learning about form validation.

@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 33: Thursday, 4 February 2021
+
+**Today's Progress**: Started in with Responsive Web Design
+
+### Day 32: Wednesday, 3 February 2021
+
+**Today's Progress**:  More HTML forms and chapter 7 of HTML & CSS.
+
+### Day 31: Tuesday, 2 February 2021
+
+**Today's Progress**: Continued with chapter 6.
+
 ### Day 30: Monday, 1 February 2021
 
 **Today's Progress**: Continued the form validation material at Codecademy and started reading chapter 6 of HTML & CSS by Jon Duckett.

@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 35: Saturday, 6 February 2921
+
+**Today's Progress**: Continued with Responsive Web Design
+
+### Day 34: Friday, 5 February 2921
+
+**Today's Progress**: More Responsive Web Design
+
 ### Day 33: Thursday, 4 February 2021
 
 **Today's Progress**: Started in with Responsive Web Design

@@ -1,6 +1,10 @@
 # 100 Days Of Code - Log
 
-### Day 35: Saturday, 6 February 2921
+### Day 36: Sunday, 7 February 2021
+
+**Today's Progress**: More Responsive Web Design, in particular CSS Grid
+
+### Day 35: Saturday, 6 February 2021
 
 **Today's Progress**: Continued with Responsive Web Design
 

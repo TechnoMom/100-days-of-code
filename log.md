@@ -2,7 +2,7 @@
 
 ### Day 36: Sunday, 7 February 2021
 
-**Today's Progress**: More Responsive Web Design, in particular CSS Grid
+**Today's Progress**: Started CSS: Grid
 
 ### Day 35: Saturday, 6 February 2021
 

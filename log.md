@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 38: Tuesday, 9 February 2021
+
+**Today's Progress**: More projects using CSS: Grid.
+
+### Day 37: Monday, 8 February 2021
+
+**Today's Progress**: More CSS: Grid. Started projects.
+
 ### Day 36: Sunday, 7 February 2021
 
 **Today's Progress**: Started CSS: Grid

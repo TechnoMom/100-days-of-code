@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+### Day 43: Sunday, 14 February 2021
+
+**Today's Progress**: Finished CSS course and got certificate
+
+### Day 42: Saturday, 13 February 2021
+
+**Today's Progress**: Went back to study some of the CSS course at Codecademy since I was at 90%
+
+### Day 41: Friday, 12 February 2021
+
+**Today's Progress**: Did Company Home Page project
+
+### Day 40: Thursday, 11 February 2021
+
+**Today's Progress**: Still with the Reponsive Design
+
+### Day 39: Wednesday, 10 February 2021
+
+**Today's Progress**: Responsive Design study
+
 ### Day 38: Tuesday, 9 February 2021
 
 **Today's Progress**: More projects using CSS: Grid.

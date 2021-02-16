@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 44: Monday, 15 February 2021
+
+**Today's Progress**: I think they add things to the Full Stack Engineer syllabus while I'm not looking. I went back and finished a bunch of small articles that have appeared since the last time I looked through the syllabus and did the Responsive Club Page project.
+
 ### Day 43: Sunday, 14 February 2021
 
 **Today's Progress**: Finished CSS course and got certificate

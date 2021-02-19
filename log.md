@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 47: Thursday, 18 February 2021
+
+**Today's Progress**: Finished the Web Accessibility section.
+
+### Day 46: Wednesday, 17 February 2021
+
+**Today's Progress**: I continued the Accessibility section.
+
+### Day 45: Tuesday, 16 February 2021
+
+**Today's Progress**: I started the Accessibility section.
+
 ### Day 44: Monday, 15 February 2021
 
 **Today's Progress**: I think they add things to the Full Stack Engineer syllabus while I'm not looking. I went back and finished a bunch of small articles that have appeared since the last time I looked through the syllabus and did the Responsive Club Page project.

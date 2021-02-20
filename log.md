@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 48: Friday, 19 February 2021
+
+**Today's Progress**: Did the Personal Portfolio Project.
+
 ### Day 47: Thursday, 18 February 2021
 
 **Today's Progress**: Finished the Web Accessibility section.

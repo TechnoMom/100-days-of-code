@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 49: Saturday, 20 February 2021
+
+**Today's Progress**: Back to JavaScript Syntax!
+
 ### Day 48: Friday, 19 February 2021
 
 **Today's Progress**: Did the Personal Portfolio Project.

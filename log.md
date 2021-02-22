@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 50: Sunday, 21 February 2021
+
+**Today's Progress**: Studied JavaScript modules.
+
 ### Day 49: Saturday, 20 February 2021
 
 **Today's Progress**: Back to JavaScript Syntax!

@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 51: Monday, 22 February 2021
+
+**Today's Progress**: More JavaScript modules and the MessageMixer and Workaround projects.
+
 ### Day 50: Sunday, 21 February 2021
 
 **Today's Progress**: Studied JavaScript modules.

@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 52: Tuesday, 23 February 2021
+
+**Today's Progress**: I read about Pair Programming, started seeking someone to pair program with, and did some JavaScript Classes practice.
+
 ### Day 51: Monday, 22 February 2021
 
 **Today's Progress**: More JavaScript modules and the MessageMixer and Workaround projects.

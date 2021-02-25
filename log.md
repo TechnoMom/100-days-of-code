@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 53: Wednesday, 24 February 2021
+
+**Today's Progress**: I started the Find Your Hat project.
+
 ### Day 52: Tuesday, 23 February 2021
 
 **Today's Progress**: I read about Pair Programming, started seeking someone to pair program with, and did some JavaScript Classes practice.

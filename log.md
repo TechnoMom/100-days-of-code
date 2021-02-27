@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+### Day 56: Saturday, 27 February
+
+**Today's Progress**: I backed up to do some JavaScript review.
+
+### Day 55: Friday, 26 February
+
+**Today's Progress**: More of the Find Your Hat project.
+
+### Day 54: Thursday, 25 February 2021
+
+**Today's Progress**: I continued the Find Your Hat project.
+
 ### Day 53: Wednesday, 24 February 2021
 
 **Today's Progress**: I started the Find Your Hat project.

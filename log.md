@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 55: Sunday, 28 Febriaru
+
+**Today's Progress: Continued JavaScript review.
+
 ### Day 56: Saturday, 27 February
 
 **Today's Progress**: I backed up to do some JavaScript review.

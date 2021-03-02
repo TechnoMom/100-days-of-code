@@ -1,14 +1,18 @@
 # 100 Days Of Code - Log
 
-### Day 55: Sunday, 28 Febriaru
+### Day 56: Monday, 1 March 2021
+
+**Today's Progress: Had an HTML/CSS study session with my daughter.
+
+### Day 55: Sunday, 28 February 2021
 
 **Today's Progress: Continued JavaScript review.
 
-### Day 56: Saturday, 27 February
+### Day 56: Saturday, 27 February 2021
 
 **Today's Progress**: I backed up to do some JavaScript review.
 
-### Day 55: Friday, 26 February
+### Day 55: Friday, 26 February 2021
 
 **Today's Progress**: More of the Find Your Hat project.
 

@@ -1,5 +1,13 @@
 # 100 Days Of Code - Log
 
+### Day 58: Wednesday, 3 March 2021
+
+**Today's Progress: Back to the JavaScript!
+
+### Day 57: Tuesday, 2 March 2021
+
+**Today's Progress: Another HTML/CSS studys session with my daughter.
+
 ### Day 56: Monday, 1 March 2021
 
 **Today's Progress: Had an HTML/CSS study session with my daughter.

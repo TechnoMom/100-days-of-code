@@ -1,5 +1,9 @@
 # 100 Days Of Code - Log
 
+### Day 59: Thursday, 4 March 2021
+
+**Today's Progress: Continued JavaScript review.
+
 ### Day 58: Wednesday, 3 March 2021
 
 **Today's Progress: Back to the JavaScript!

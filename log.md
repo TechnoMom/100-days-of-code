@@ -1,5 +1,25 @@
 # 100 Days Of Code - Log
 
+## Day 64: Tuesday, 9 March 2021
+
+**Today's Progress: JavaScript review and challenges
+
+### Day 63: Monday, 8 March 2021
+
+**Today's Progress: Study session with Katie
+
+### Day 62: Sunday, 7 March 2021
+
+**Today's Progress: JavaScript study
+
+### Day 61: Saturday, 6 March 2021
+
+**Today's Progress: More JavaScript study
+
+### Day 60: Friday. 5 March 2021
+
+**Today's Progress: Another study session with Katie.
+
 ### Day 59: Thursday, 4 March 2021
 
 **Today's Progress: Continued JavaScript review.
@@ -10,7 +30,7 @@
 
 ### Day 57: Tuesday, 2 March 2021
 
-**Today's Progress: Another HTML/CSS studys session with my daughter.
+**Today's Progress: Another HTML/CSS study session with my daughter.
 
 ### Day 56: Monday, 1 March 2021
 

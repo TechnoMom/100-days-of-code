@@ -1,5 +1,17 @@
 # 100 Days Of Code - Log
 
+## Day 67: Friday, 12 March 2021
+
+**Today's Progress: Started studying Test-Driven Development
+
+## Day 66: Thursday, 11 March 2021
+
+**Today's Progress: SQL review and quizzes
+
+## Day 65: Wednesday, 10 March 2021
+
+**Today's Progress: JavaScript Challenges
+
 ## Day 64: Tuesday, 9 March 2021
 
 **Today's Progress: JavaScript review and challenges
